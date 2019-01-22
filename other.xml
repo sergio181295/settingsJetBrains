@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61055636" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="red&#10;split&#10;pane" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="tool&#10;sett" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Enigma/inventory-srv" />
+    <property name="file.gist.reindex.count" value="920" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
